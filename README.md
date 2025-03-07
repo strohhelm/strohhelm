@@ -4,19 +4,15 @@
 - 👋 Hi, I’m Philipp 
 - 👀 I’m interested in ... making all kinds of stuff.
 - 🪑 Im a trained carpenter, transitioning to also being a programmer!🖥️
-- 🌱 I’m currently learning ... Programming at 42 Heilbronn!
-- 🏃 Im loving bouldering and hiking!
-- ✨ a few new things i learned this year:
-  - Programming is similar in a way to carpentry, in the sense that you need to find solutions to problems and they have to follow fundamental rules. Other that that its pure creativity.
-  - Sourdough is not that easy to get started 🥖
-  - Salsa dancing is a lot of fun 💃🕺
-  - I can actually learn anything quite fast if i regularly and actively put time into it.
-  - Yoga is such a good counterbalance to programming and i love it!
+- 🌱 I’m currently learning ...  Programming at 42 Heilbronn!
+  * specifically C/C++
+  * very currently working on the `Inception` Project, consisting of dive into system administration, working with docker , docker-compose, nginx, maraiDB and wordpress
+  * also recently the cybersecurity hype got me hard and i got into CTF challenges. 🚩
 
-- ⚡ Fun fact: I have not yet successfully started a sourdough from scratch yet but im not giving up! 🧑‍🍳
-- 💬 At least atm I would describe myself more of a Problem Solver than a Programmer. Due to my physical and hands on background in carpentry and being quite new to programming.
-  But the combination of these two professions is promising to be bigger than the individual ones.
-  Im keen on where this jurney is leading me to! 🌞
+
+- 💬 Atm I would describe myself more of a problem solver than a programmer, due to my physical and hands on background in carpentry and being quite new to programming.  
+  But the combination of these two professions is promising to be bigger than the individual ones.  
+  Im keen on where this jurney is taking me to! 🌞
   
 
 <!---
