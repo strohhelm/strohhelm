@@ -6,8 +6,8 @@
 - 🪑 Im a trained carpenter, transitioning to also being a programmer!🖥️
 - 🌱 I’m currently learning ...  Programming at 42 Heilbronn!
   * specifically C/C++
-  * very currently working on the `Inception` Project, consisting of dive into system administration, working with docker , docker-compose, nginx, maraiDB and wordpress
-  * also recently the cybersecurity hype got me hard and i got into CTF challenges. 🚩
+  * very currently working on the `webserv` Project, writing a http 1.1 server non blocking, configurable, with Upload possibility and cgi.
+  * also recently the cybersecurity hype got me and i got into CTF challenges. 🚩
 
 
 - 💬 Atm I would describe myself more of a problem solver than a programmer, due to my physical and hands on background in carpentry and being quite new to programming.  
