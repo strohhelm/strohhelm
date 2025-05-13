@@ -6,7 +6,7 @@
 - 🪑 Im a trained carpenter, transitioning to also being a programmer!🖥️
 - 🌱 I’m currently learning ...  Programming at 42 Heilbronn!
   * specifically C/C++
-  * very currently finished working on the `webserv` Project, writing a http 1.1 server non blocking, configurable, with Upload possibility and cgi.
+  * very recently finished working on the `webserv` Project, writing a http 1.1 server non blocking, configurable, with Upload possibility and cgi.
   * also recently the cybersecurity hype got me and i got into CTF challenges. 🚩
 
 
